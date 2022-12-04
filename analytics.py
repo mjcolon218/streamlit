@@ -5,7 +5,7 @@ import pandas as pd
 st.write("""
 # Simple Stock Price App
 
-Shown are the stock closing price and Volume of Google!
+Shown are the stock **Closing Price** and ***Volume*** of Google!
 
 """)
 tickerSymbol = "GOOGL"
@@ -16,4 +16,5 @@ print(type(tickerDf))
 print(tickerDf.info())
 st.line_chart(tickerDf.Close)
 st.line_chart(tickerDf.Volume)
+
 
