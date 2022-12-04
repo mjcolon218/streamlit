@@ -5,6 +5,7 @@ import streamlit as st
 import numpy as np
 import ssl
 import base64
+import lxml
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
