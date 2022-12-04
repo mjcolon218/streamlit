@@ -10,6 +10,6 @@
 # I also created a download button, sidebars, download functionality and a background theme Jpeg.
 # * **Data Source:** https://www.basketball-reference.com
 
-# 3 SP500.py:
+# 3 sp5stocks.py:
 # This app scrapes the list of the **S&P 500** companies from (Wikipedia) and visualizes the closing prices.
 # * **Data Source:**[Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies)
