@@ -12,6 +12,6 @@
 # * **Data Source:** https://www.basketball-reference.com
 
 # 3 sp5stocks.py:
-# This app scrapes the list of the **S&P 500** companies from (Wikipedia) and visualizes the closing prices.
+# This app scrape's the list of the **S&P 500** companies from (Wikipedia) and visualizes the closing prices.
 # **URL-link** https://mjcolon218-streamlit-sp5stocks-k0cwvj.streamlit.app
 # * **Data Source:**[Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies)
